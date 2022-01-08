@@ -1,4 +1,4 @@
-# Welcome to my training portfolio
+## Welcome to my training portfolio
 
 Here I showcase small independent projects or exercises solved with the aid of data science algorithms
 
@@ -6,16 +6,16 @@ Here I showcase small independent projects or exercises solved with the aid of d
 - [Getting started with Markdown]
 - [Getting started with Markdown]
 
-# [Project 1](#project 1)
-## Header 2
-### Header 3
-# Published projects portfolio
+## [Project 1](#project 1)
+### Header 2
+#### Header 3
+## Published projects portfolio
 
 You can consult a portfolio list of my published projects at:
 
 x
 
-# Contact details 
+## Contact details 
 
 You can connect and/or contact me at the following social media:
 

@@ -1,4 +1,4 @@
-## Welcome to my training portfolio
+# Welcome to my training portfolio
 
 Here I showcase small independent projects or exercises solved with the aid of data science algorithms
 

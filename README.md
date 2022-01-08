@@ -9,11 +9,11 @@ Here I showcase small independent projects or exercises solved with the aid of d
 # [Project 1](#project 1)
 ## Header 2
 ### Header 3
-# Publications
+# Published projects portfolio
 
-You can read published articles at:
+You can consult a portfolio list of my published projects at:
 
-- **Researchgate** : https://www.researchgate.net/profile/Kristian-Gurashi
+x
 
 # Contact details 
 
@@ -21,6 +21,6 @@ You can connect and/or contact me at the following social media:
 
 - **Linkedin** : https://www.linkedin.com/in/kristiangurashi
 - **Twitter** : https://twitter.com/KrGurashi
-
+- **Researchgate** : https://www.researchgate.net/profile/Kristian-Gurashi
 
 

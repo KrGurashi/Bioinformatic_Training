@@ -6,7 +6,7 @@ Here I showcase small independent projects or exercises solved with the aid of d
 - [Getting started with Markdown]
 - [Getting started with Markdown]
 
-# Project 1(#project 1)
+# [Project 1](#project 1)
 ## Header 2
 ### Header 3
 # Publications
